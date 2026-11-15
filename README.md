@@ -1,56 +1,29 @@
-# \# Simple LDO Converter
 
-# 
+# Simple LDO Converter
 
-# A compact Low-Dropout (LDO) linear voltage regulator PCB designed using \*\*Altium Designer\*\*.
+A compact Low-Dropout (LDO) linear voltage regulator PCB designed using **Altium Designer**.
 
-# 
+Developed as a PCB design exercise following the *Altium Designer Quick-Start Tutorial* by **Phil Salmony (Phil's Lab)**, presented by Altium Academy.
 
-# This project was developed as a practical PCB design exercise, following the \*Altium Designer Quick-Start Tutorial\* by \*\*Phil Salmony (Phil's Lab)\*\*, presented by Altium Academy.
+## PCB 3D View
 
-# 
+![PCB 3D Render](Outputs/PCB_3D.png)
 
-# \## PCB 3D View
+## Schematic
 
-# 
+[View / Download Schematic (PDF)](Outputs/Schematic.pdf)
 
-# !\[PCB 3D Render](Outputs/PCB\_3D.png)
+## Project Files
 
-# 
+- `LDO-Schematic.SchDoc` — Circuit schematic
+- `LDO-PCB.PcbDoc` — PCB layout and routing
+- `Simple_LDO_Converter.PrjPcb` — Altium Designer project
+- `Outputs/` — PCB renders, schematic PDF, and design outputs
 
-# \## Schematic
+## Tools
 
-# 
+**EDA Software:** Altium Designer
 
-# !\[Circuit Schematic](Outputs/Schematic.png)
+## License
 
-# 
-
-# \## Project Files
-
-# 
-
-# \- `LDO-Schematic.SchDoc` — Circuit schematic
-
-# \- `LDO-PCB.PcbDoc` — PCB layout and routing
-
-# \- `Simple\_LDO\_Converter.PrjPcb` — Altium Designer project
-
-# \- `Outputs/` — PCB renders, schematic exports, and design outputs
-
-# 
-
-# \## Tools
-
-# 
-
-# \*\*EDA Software:\*\* Altium Designer
-
-# 
-
-# \## License
-
-# 
-
-# This project is licensed under the \[MIT License](LICENSE).
-
+Licensed under the [MIT License](LICENSE).
