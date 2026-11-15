@@ -7,11 +7,11 @@ Developed as a PCB design exercise following the *Altium Designer Quick-Start Tu
 
 ## PCB 3D View
 
-![PCB 3D Render](Outputs/PCB_3D.png)
+![PCB 3D Render](Outputs/LDO-PCB.png)
 
 ## Schematic
 
-[View / Download Schematic (PDF)](Outputs/Schematic.pdf)
+[View / Download Schematic (PDF)](Outputs/LDO-Schematic.pdf)
 
 ## Project Files
 
